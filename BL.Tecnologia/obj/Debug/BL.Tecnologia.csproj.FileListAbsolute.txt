@@ -1,0 +1,10 @@
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\BL.Tecnologia.dll.config
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\BL.Tecnologia.dll
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\BL.Tecnologia.pdb
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\EntityFramework.dll
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\EntityFramework.xml
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\obj\Debug\BL.Tecnologia.csprojResolveAssemblyReference.cache
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\obj\Debug\BL.Tecnologia.dll
+C:\Users\HP ELITEBOOK\Desktop\CreandoBD-main\TiendaElectronicos\BL.Tecnologia\obj\Debug\BL.Tecnologia.pdb
